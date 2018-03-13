@@ -1,6 +1,6 @@
-package gettingstarted.behavior.real;
+package gettingStarted.behavior.real;
 
-import gettingstarted.behavior.impl.QuackBehavior;
+import gettingStarted.behavior.impl.QuackBehavior;
 
 public class MuteQuack implements QuackBehavior {
     public void quack() {

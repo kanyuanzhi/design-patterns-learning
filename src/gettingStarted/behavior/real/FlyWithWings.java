@@ -1,6 +1,6 @@
-package gettingstarted.behavior.real;
+package gettingStarted.behavior.real;
 
-import gettingstarted.behavior.impl.FlyBehavior;
+import gettingStarted.behavior.impl.FlyBehavior;
 
 public class FlyWithWings implements FlyBehavior{
     public void fly(){

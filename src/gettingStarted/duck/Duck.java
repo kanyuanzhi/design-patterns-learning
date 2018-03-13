@@ -1,7 +1,7 @@
-package gettingstarted.duck;
+package gettingStarted.duck;
 
-import gettingstarted.behavior.impl.FlyBehavior;
-import gettingstarted.behavior.impl.QuackBehavior;
+import gettingStarted.behavior.impl.FlyBehavior;
+import gettingStarted.behavior.impl.QuackBehavior;
 
 public abstract class Duck {
     QuackBehavior quackBehavior;

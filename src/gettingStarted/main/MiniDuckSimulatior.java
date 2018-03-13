@@ -1,9 +1,9 @@
-package gettingstarted.main;
+package gettingStarted.main;
 
-import gettingstarted.behavior.real.FlyRocketPowered;
-import gettingstarted.duck.Duck;
-import gettingstarted.duck.MallardDuck;
-import gettingstarted.duck.ModelDuck;
+import gettingStarted.behavior.real.FlyRocketPowered;
+import gettingStarted.duck.Duck;
+import gettingStarted.duck.MallardDuck;
+import gettingStarted.duck.ModelDuck;
 
 public class MiniDuckSimulatior {
     public static void main(String args[]) {

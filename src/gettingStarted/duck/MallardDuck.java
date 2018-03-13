@@ -1,9 +1,7 @@
-package gettingstarted.duck;
+package gettingStarted.duck;
 
-import gettingstarted.behavior.real.FlyWithWings;
-import gettingstarted.behavior.real.Quack;
-
-import java.util.Map;
+import gettingStarted.behavior.real.FlyWithWings;
+import gettingStarted.behavior.real.Quack;
 
 public class MallardDuck extends Duck{
     public MallardDuck(){

@@ -1,7 +1,7 @@
-package gettingstarted.duck;
+package gettingStarted.duck;
 
-import gettingstarted.behavior.real.FlyNoWay;
-import gettingstarted.behavior.real.MuteQuack;
+import gettingStarted.behavior.real.FlyNoWay;
+import gettingStarted.behavior.real.MuteQuack;
 
 public class ModelDuck extends Duck{
     public ModelDuck(){
