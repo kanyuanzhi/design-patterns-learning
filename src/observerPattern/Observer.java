@@ -1,6 +1,6 @@
 package observerPattern;
 
 public interface Observer {
-    public void update(float temp, float humidity, float pressure);
-    public void quit();
+    void update(float temp, float humidity, float pressure);
+    void quit();
 }

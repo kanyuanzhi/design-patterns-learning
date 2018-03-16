@@ -1,5 +1,5 @@
 package observerPattern;
 
 public interface DisplayElement {
-    public void display();
+    void display();
 }
