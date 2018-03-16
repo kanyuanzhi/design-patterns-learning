@@ -34,4 +34,7 @@ public interface Subject{
 ```java
 private ArrayList<Observer> observers;
 ```
+![image](https://github.com/kanyuanzhi/design-patterns-learning/raw/master/docs/observe.png "观察者模式UML图")
+
+
 ### 装饰者模式
